@@ -24,7 +24,7 @@
 								</outputEntries>
 							</builder>
 							<tool id="cdt.managedbuild.tool.gnu.assembler.cygwin.base.925919937" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.cygwin.base">
-								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.both.asm.option.include.paths.996295958" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.both.asm.option.include.paths.996295958" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/5.Event/erika/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/5.Event/out}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Arduino/hardware/arduino/avr/cores/arduino&quot;"/>
@@ -35,7 +35,7 @@
 							<tool id="cdt.managedbuild.tool.gnu.archiver.cygwin.base.859099429" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.cygwin.base"/>
 							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.base.1096558029" name="Cygwin C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.base"/>
 							<tool id="cdt.managedbuild.tool.gnu.c.compiler.cygwin.base.1699964502" name="Cygwin C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.cygwin.base">
-								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.1650885949" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.1650885949" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/5.Event/erika/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/5.Event/out}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Arduino/hardware/arduino/avr/cores/arduino&quot;"/>

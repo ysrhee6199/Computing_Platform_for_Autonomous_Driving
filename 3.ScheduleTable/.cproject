@@ -24,7 +24,7 @@
 								</outputEntries>
 							</builder>
 							<tool id="cdt.managedbuild.tool.gnu.assembler.cygwin.base.634004401" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.cygwin.base">
-								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.both.asm.option.include.paths.836306645" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.both.asm.option.include.paths.836306645" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/3.ScheduleTable/erika/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/3.ScheduleTable/out}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Arduino/hardware/arduino/avr/cores/arduino&quot;"/>
@@ -35,7 +35,7 @@
 							<tool id="cdt.managedbuild.tool.gnu.archiver.cygwin.base.452086842" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.cygwin.base"/>
 							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.base.515416313" name="Cygwin C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.cygwin.base"/>
 							<tool id="cdt.managedbuild.tool.gnu.c.compiler.cygwin.base.2110765712" name="Cygwin C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.cygwin.base">
-								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.636057984" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.include.paths.636057984" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/3.ScheduleTable/erika/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/3.ScheduleTable/out}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Program Files (x86)\Arduino/hardware/arduino/avr/cores/arduino&quot;"/>
