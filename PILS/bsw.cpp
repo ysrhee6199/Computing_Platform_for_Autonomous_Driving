@@ -2,7 +2,7 @@
 #include "Arduino.h"
 #include "serial.h"
 
-#define TIMER1_US 100000U /* 100 ms */
+#define TIMER1_US 1000000U /* 100 ms */
 
 extern "C"
 {
